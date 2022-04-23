@@ -30,4 +30,3 @@ async def on_message(message):
             await each_message.delete()
     
 client.run(Token)
-##
